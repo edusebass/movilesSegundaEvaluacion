@@ -1,6 +1,6 @@
 # Moviles Segunda Evaluacion
 
-| Integrantes     |                                                                          |                  |                                                                      |
+| Integrantes     | Foto CV                                                                  | Integrantes      | Foto CV                                                              |
 | --------------- | ------------------------------------------------------------------------ | ---------------- | -------------------------------------------------------------------- |
 | Eduardo Almachi | <img src="img/fotocarnet.jpg" alt="Foto de Eduardo Almachi" width="150"> | Davida Vallejo   | <img src="img/image-2.png" alt="Foto de Davida Vallejo" width="150"> |
 | Melany Sangucho | <img src="img/image-1.png" alt="Foto de Melany Sangucho" width="150">    | Brittany Espinel | <img src="img/image.png" alt="Foto de Brittany Espinel" width="150"> |
