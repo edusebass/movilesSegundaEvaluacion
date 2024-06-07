@@ -1,5 +1,12 @@
 # Moviles Segunda Evaluacion
 
+| Nombre           | Foto CV                                                                 |
+| ---------------- | ----------------------------------------------------------------------- |
+| Eduardo Almachi  | <img src="img/fotocarnet.jpg" alt="Foto de Eduardo Almachi" width="50"> |
+| Melany Sangucho  | <img src="img/image-1.png" alt="Foto de Melany Sangucho" width="50">    |
+| Davida Vallejo   | <img src="img/image-2.png" alt="Foto de Davida Vallejo" width="50">     |
+| Brittany Espinel | <img src="img/image.png" alt="Foto de Brittany Espinel" width="50">     |
+
 Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling.
 
 Aplicación para tomar fotos.
@@ -14,10 +21,4 @@ GPS con guardado de datos en real-time-database o firestore.
 
 Mostrar ubicación en Google maps o en OpenStreetMap.
 
-|                  |                                 |
-| ---------------- | ------------------------------- |
-| Eduardo Almachi  | ![alt text](img/fotocarnet.jpg) |
-| Melany Sangucho  | ![alt text](img/image-1.png)    |
-| Davida Vallejo   | ![alt text](img/image-2.png)    |
-| Brittany Espinel | ![alt text](img/image.png)      |
-|                  |                                 |
+         |                                 |
