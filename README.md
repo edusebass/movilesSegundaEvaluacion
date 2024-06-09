@@ -8,14 +8,12 @@
 ## Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling.
 
 **Repositorio:**
-https://github.com/DavidPK8/PortafolioMoviles.git
-[https://github.com/DavidPK8/MyCV.git](https://github.com/DavidPK8/MyCV/tree/b6f254594973e675f297cc903ae2818450d09d71)
+https://github.com/DavidPK8/PortafolioAM/tree/main/MyCV
 
 ## Aplicación para tomar fotos.
 
 **Repositorio:**
-https://github.com/DavidPK8/PortafolioMoviles.git
-[https://github.com/DavidPK8/PhotoGallery.git](https://github.com/DavidPK8/PhotoGallery/tree/33b5e6dbbed94ea1ec9c118bd6650ef96e941369)
+https://github.com/DavidPK8/PortafolioAM/tree/main/PhotoGallery
 
 ## Login con firebase authentication.
 
