@@ -25,6 +25,7 @@ https://github.com/DavidPK8/PhotoGallery.git
 ## App para chatear con Real-time-database.
 
 **Repositorio:**
+https://github.com/brittanypallasco2003/Portafolio_ionic/tree/master/ionic_chat
 
 ## GPS con guardado de datos en real-time-database o firestore.
 
