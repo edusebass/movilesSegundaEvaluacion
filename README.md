@@ -8,6 +8,7 @@
 ## Aplicación de hoja de vida (CV) + firebase hosting+infinite scrolling.
 
 **Repositorio:**
+https://github.com/DavidPK8/PhotoGallery.git
 
 ## Aplicación para tomar fotos.
 
