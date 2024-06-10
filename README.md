@@ -31,6 +31,7 @@ https://github.com/brittanypallasco2003/Portafolio_ionic/tree/master/ionic_chat
 ## GPS con guardado de datos en real-time-database o firestore.
 
 **Repositorio:**
+https://github.com/brittanypallasco2003/Portafolio_ionic/tree/master/ionic-geolocation-app
 
 ## Mostrar ubicación en Google maps o en OpenStreetMap.
 
