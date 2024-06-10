@@ -18,10 +18,12 @@ https://github.com/DavidPK8/PortafolioAM/tree/main/PhotoGallery
 ## Login con firebase authentication.
 
 **Repositorio:**
+https://github.com/SanguchoMela/apps_moviles/tree/main/loginFire
 
 ## App para subir archivos con Storage.
 
 **Repositorio:**
+https://github.com/SanguchoMela/apps_moviles/tree/main/archivosFire
 
 ## App para chatear con Real-time-database.
 
